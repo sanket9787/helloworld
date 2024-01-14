@@ -1,0 +1,6 @@
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\bin\Release\net8.0\publish\hellowordl.exe
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\bin\Release\net8.0\publish\hellowordl.dll
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\bin\Release\net8.0\publish\hellowordl.deps.json
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\bin\Release\net8.0\publish\hellowordl.runtimeconfig.json
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\bin\Release\net8.0\publish\hellowordl.pdb
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\bin\Release\net8.0\publish\Newtonsoft.Json.dll

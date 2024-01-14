@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PORh+wxd9kBMC2IsTyObSdjXCnOy118XBlQW4Vc9Ku9ylcurfNsFTyUjnVCdkYbDNvTK/m9VO33KaEy+JR/LJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALUNS1\\Desktop\\csharp\\hellowordl\\hellowordl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALUNS1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

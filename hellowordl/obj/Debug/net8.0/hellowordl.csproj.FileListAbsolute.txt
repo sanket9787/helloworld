@@ -1,0 +1,17 @@
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\bin\Debug\net8.0\hellowordl.exe
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\bin\Debug\net8.0\hellowordl.deps.json
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\bin\Debug\net8.0\hellowordl.runtimeconfig.json
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\bin\Debug\net8.0\hellowordl.dll
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\bin\Debug\net8.0\hellowordl.pdb
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\obj\Debug\net8.0\hellowordl.csproj.AssemblyReference.cache
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\obj\Debug\net8.0\hellowordl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\obj\Debug\net8.0\hellowordl.AssemblyInfoInputs.cache
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\obj\Debug\net8.0\hellowordl.AssemblyInfo.cs
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\obj\Debug\net8.0\hellowordl.csproj.CoreCompileInputs.cache
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\obj\Debug\net8.0\hellowordl.csproj.CopyComplete
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\obj\Debug\net8.0\hellowordl.dll
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\obj\Debug\net8.0\refint\hellowordl.dll
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\obj\Debug\net8.0\hellowordl.pdb
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\obj\Debug\net8.0\hellowordl.genruntimeconfig.cache
+C:\Users\WALUNS1\Desktop\csharp\hellowordl\obj\Debug\net8.0\ref\hellowordl.dll
